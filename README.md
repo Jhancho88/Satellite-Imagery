@@ -8,11 +8,11 @@ La primera parte del proyecto busca evaluar la deforestación en el Guaviare, la
 
 **Imagen de deforestación en Colores Verdaderos**
 
-![Alt text](img/True-Color - Guaviare.PNG?raw=true "Imagen True - Color - Guaviare")
+![Alt text](img/True-Color-Guaviare.PNG?raw=true "Imagen True - Color - Guaviare")
 
 **Imagen de deforestación predicha por el árbol de decisión**
 
-![Alt text](img/Deforestación-Gueviare.PNG?raw=true "Imagen False - Color - Guaviare")
+![Alt text](img/Deforestación-Guaviare.PNG?raw=true "Imagen False - Color - Guaviare")
 
 
 
