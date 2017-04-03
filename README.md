@@ -4,7 +4,7 @@ El Big Data aparece de formas diversas, una gran fuente de información son los 
 
 El siguiente proyecto busca generar una herramienta para las diferentes autoridades que buscan conocimiento en cuanto a agricultura de precisión y usos de suelo como deforestación hasta indicadores económicos a través del análisis de imágenes satelitales nocturnas.
 
-La primera parte del proyecto busca evaluar la deforestación en el Guaviare, la cual puede ser predica a través de los datos hiperespectrales de los satélites LANDAST_7 y LANDSAT_8.
+La primera parte del proyecto busca evaluar la deforestación en el Guaviare, la cual puede ser predicha a través de los datos hiperespectrales de los satélites LANDAST_7 y LANDSAT_8.
 
 **Imagen de deforestación en Colores Verdaderos**
 
