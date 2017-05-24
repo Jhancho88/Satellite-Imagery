@@ -14,5 +14,3 @@ La primera parte del proyecto busca evaluar la deforestación en el Guaviare, la
 
 ![Alt text](img/Deforestación-Guaviare.PNG?raw=true "Imagen False - Color - Guaviare")
 
-
-
